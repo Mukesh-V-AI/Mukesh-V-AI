@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:58A6FF&amp;height=220&amp;section=header&amp;text=Mukesh%20V&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20%7C%20ML%20%2F%20NLP%20%2F%20Backend%20Engineer&amp;descAlignY=55&amp;descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:58A6FF&amp;height=220&amp;section=header&amp;text=Mukesh%20V&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20and%20Data%20Science%20-%20ML%2C%20NLP%2C%20Backend%20Engineer&amp;descAlignY=55&amp;descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Build.+Learn.+Solve.+Repeat.;3x+Hackathon+Winner+%2F+Finalist;AI+%2B+ML+%2B+NLP+%2B+Backend+Engineer;Turning+Ideas+Into+Intelligent+Systems;Currently%3A+Placement-Ready+%26+Shipping&amp;font=Fira%20Code&amp;center=true&amp;width=750&amp;height=50&amp;color=58A6FF&amp;vCenter=true&amp;size=24&amp;pause=1400&amp;duration=2600" alt="Typing SVG" />
 

@@ -84,16 +84,6 @@ fun_fact: "Has shipped more hackathon prototypes than semesters completed 😅"
 </tr>
 </table>
 
-**Proficiency snapshot**
-
-```text
-Python           ████████████████████░░░░  80%
-Java             ██████████████████░░░░░░  75%
-Machine Learning █████████████████░░░░░░░  70%
-SQL              ████████████████░░░░░░░░  65%
-JavaScript       ██████████████░░░░░░░░░░  55%
-C / DSA          ██████████████████░░░░░░  75%
-```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 

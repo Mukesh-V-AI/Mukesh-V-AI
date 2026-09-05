@@ -85,6 +85,7 @@ fun_fact: "Has shipped more hackathon prototypes than semesters completed 😅"
 </table>
 
 
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🏆 Achievements & Hackathons
@@ -116,20 +117,7 @@ fun_fact: "Has shipped more hackathon prototypes than semesters completed 😅"
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukesh-V-AI&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh-V-AI&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh-V-AI&amp;theme=tokyonight&amp;hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mukesh-V-AI&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh-V-AI&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" />
 </div>
 
 <!-- Snake contribution graph — requires a one-time GitHub Action (ask and I'll set it up):

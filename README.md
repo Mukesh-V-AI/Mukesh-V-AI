@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58A6FF&height=220&section=header&text=Mukesh%20V&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20ML%20%2F%20NLP%20%2F%20Backend%20Engineer&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:58A6FF&amp;height=220&amp;section=header&amp;text=Mukesh%20V&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20%7C%20ML%20%2F%20NLP%20%2F%20Backend%20Engineer&amp;descAlignY=55&amp;descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Build.+Learn.+Solve.+Repeat.;3x+Hackathon+Winner+%2F+Finalist;AI+%2B+ML+%2B+NLP+%2B+Backend+Engineer;Turning+Ideas+Into+Intelligent+Systems;Currently%3A+Placement-Ready+%26+Shipping&font=Fira%20Code&center=true&width=750&height=50&color=58A6FF&vCenter=true&size=24&pause=1400&duration=2600" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Build.+Learn.+Solve.+Repeat.;3x+Hackathon+Winner+%2F+Finalist;AI+%2B+ML+%2B+NLP+%2B+Backend+Engineer;Turning+Ideas+Into+Intelligent+Systems;Currently%3A+Placement-Ready+%26+Shipping&amp;font=Fira%20Code&amp;center=true&amp;width=750&amp;height=50&amp;color=58A6FF&amp;vCenter=true&amp;size=24&amp;pause=1400&amp;duration=2600" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mukesh-V-AI&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Mukesh-V-AI?label=FOLLOWERS&style=for-the-badge&color=58A6FF&logo=github" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&logo=vercel" />
+<img src="https://komarev.com/ghpvc/?username=Mukesh-V-AI&amp;label=PROFILE+VIEWS&amp;color=58A6FF&amp;style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Mukesh-V-AI?label=FOLLOWERS&amp;style=for-the-badge&amp;color=58A6FF&amp;logo=github" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge&amp;logo=vercel" />
 
 <p>
-  <a href="https://www.linkedin.com/in/mukesh-ai-tech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mukeshportfolio-flax.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mukesh-ai-tech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://mukeshportfolio-flax.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 </div>
@@ -52,33 +52,33 @@ fun_fact: "Has shipped more hackathon prototypes than semesters completed 😅"
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" />
 
 **Web**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
 
 **Data & ML**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=readthedocs&logoColor=white" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-1E1E1E?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-1E1E1E?style=for-the-badge&amp;logo=OpenAI&amp;logoColor=white" />
 
 **Tooling**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-black?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Simulink-black?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" />
 
 </td>
 </tr>
@@ -126,20 +126,20 @@ C / DSA          ██████████████████░░░
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukesh-V-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh-V-AI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukesh-V-AI&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh-V-AI&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh-V-AI&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh-V-AI&amp;theme=tokyonight&amp;hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mukesh-V-AI&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mukesh-V-AI&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh-V-AI&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh-V-AI&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" />
 </div>
 
 <!-- Snake contribution graph — requires a one-time GitHub Action (ask and I'll set it up):
@@ -166,9 +166,9 @@ C / DSA          ██████████████████░░░
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mukesh-ai-tech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://mukeshportfolio-flax.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/Mukesh-V-AI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mukesh-ai-tech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://mukeshportfolio-flax.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+<a href="https://github.com/Mukesh-V-AI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 
 <br/><br/>
 
@@ -176,4 +176,4 @@ C / DSA          ██████████████████░░░
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:58A6FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:0f2027,100:58A6FF&amp;height=100&amp;section=footer" width="100%" />
